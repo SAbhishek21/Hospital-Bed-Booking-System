@@ -1,5 +1,2 @@
 flask
 mysqlclient
-flask sql alchemy
-flask login
-flask mail
