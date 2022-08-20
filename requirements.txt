@@ -1,12 +1,1 @@
-pip install flask
-pip install mysqlclient
-pip install flask sql alchemy
-pip install flask login
-pip install flask maipip l
-install python-3.9.9
 
-
-add your admin credentials in config.json andd gmail id and password
-import sql file in the xamp phpmyadmin
-
-for above procedure installation refer my youtube video i have added the installation video in same playlist
