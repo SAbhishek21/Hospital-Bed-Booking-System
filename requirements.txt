@@ -3,6 +3,7 @@ install mysqlclient
 install flask sql alchemy
 install flask login
 install flask mail
+install python-3.9.9
 
 
 add your admin credentials in config.json andd gmail id and password
